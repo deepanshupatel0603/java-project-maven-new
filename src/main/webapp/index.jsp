@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
 
     <!-- ------------------ Title ------------------ -->
-    <title>Jio Hotstar - Watch Movies, TV Shows Online</title>
+    <title>Jio Hotstar - Watch Series, Movies, TV Shows Online</title>
 
     <!-- ------------------ Style Sheet ------------------ -->
     <link rel="stylesheet" href="./assets/css/style.css">
